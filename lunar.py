@@ -2,7 +2,7 @@
 # https://github.com/kristopherjohnson/lunar-c
 # which is a translation of Jim Storer's FOCAL lunar lander.
 #
-# Changed goto labels to funcionts and threw everything into a class.
+# Created Class and changed goto labels to methods.
 #
 # Requires Python Version > 2.7
 
